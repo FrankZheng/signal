@@ -10,11 +10,8 @@ import java.util.zip.CheckedOutputStream;
 
 import static org.junit.Assert.assertEquals;
 
-
-
-
 /**
- * Created by zhengxiaoqiang on 15/4/1.
+ * @author Frank Zheng
  */
 public class SignalTest {
     Signal<String> _signal;
