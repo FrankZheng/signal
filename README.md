@@ -1,5 +1,5 @@
 # signal
-A lightweight signal / handler framework for java
+A lightweight signal / handler framework for java.
 
 A signal / handler could be used to implement the classic observer pattern. It's better than the traditional "listener" way.
 Following is a sample that demonstrate how to use signal / handler to implement a login / logout logic.
